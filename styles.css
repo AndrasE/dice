@@ -1,7 +1,6 @@
 body {
   background-color: #393E46;
 }
-
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
@@ -13,37 +12,35 @@ p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
+  line-height: 3rem;
 }
 a{
   text-decoration: none;
   color: #EEEEEE;
 }
-a:hover{
+a:hover {
   text-decoration: underline;
 }
 img {
   width: 70%;
 }
-footer{
+footer {
   position: fixed;
   text-align: center;
   left: 0;
   bottom: 0;
   right: 0;
 }
-
-footer p{
+footer p {
   color: #EEEEEE;
   font-family: 'Indie Flower', cursive;
   font-size: 1.3rem;
 }
-
 .container {
   width: 90%;
   margin: auto;
   text-align: center;
 }
-
 .dice {
   text-align: center;
   display: inline-block;
@@ -67,6 +64,14 @@ footer p{
   cursor: pointer;
   text-align: center;
 }
+.win {
+  border: 2px solid ;
+  border-radius: 9%;
+}
+.transparent { border: 2px solid transparent;
+  border-radius: 9%;
+}
+
 .button:active {
   background: #4bb994;
 }
