@@ -5,17 +5,16 @@
   </a>
 </p>
 <h3 align="center">
-  My very first webpage in the beginning of my studies
+  A simple dicegame
   <br>
-  using only Html and Css
+  Js-play
 </h3>
 
 <br>
 
 ## Hi there 👋
 
-I think the title is self-explanatory. 
-This project was part of my self-study. <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> gang!
+This project was part of my self-study with the <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> gang! 👯 Creating two random numbers between 1-6 accordingply to the outcome displaying and image for user highlighting the winner. (basic math 🥲). I also added some a second of suspense before. Button refreshes the page and game restarts! 🚩
   
 Take care, code safe! 💻
 
