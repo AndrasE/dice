@@ -14,7 +14,7 @@
 
 ## Hi there 👋
 
-This project was part of my self-study with  <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a>. Creating two random numbers between 1-6 accordingly to the outcomes displaying images for user highlighting the winner. I also added some @medias for mobile and a second of suspense before announcing the winner. Button refreshes the page and game restarts! 🚩
+This project was part of my self-study with  <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a>. Creating two random numbers between 1-6 accordingly to the outcomes displaying images for user highlighting the winner. I also added some @medias for mobile and a second of suspense before announcing the winner. <br> Button refreshes the page and game restarts! 🚩
 
 
 ## Run 🚀
