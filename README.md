@@ -1,27 +1,28 @@
-<br>
-<p align="center">
-  <a href="https://andrase.github.io/dice/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/dice-readme-img.png?raw=true" width="110px">
-  </a>
-</p>
 <h3 align="center">
-  A simple dicegame
-  <br>
- with JS
+  <a href="https://andrase.github.io/dice/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/AndrasE/raw-readme/blob/main/dice-readme-img.png?raw=true" width="85px">
+  </a>
+<br/>
+  A simple dicegame with JavaScript
 </h3>
 
-<br>
+## Hello there 👋
 
-## Hi there 👋
+This project was part of my self-study on **[Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp)**. 
 
-This project was part of my self-study with  <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a>. Creating two random numbers between 1-6 accordingly to the outcomes displaying images for user highlighting the winner. I also added some @medias for mobile and a second of suspense before announcing the winner. <br> Button refreshes the page and game restarts! 🚩
-
+Creating two random numbers between 1-6 accordingly to the outcomes displaying images for user highlighting the winner. I also added some @medias for mobile and a second of suspense before announcing the winner. Button refreshes the page and game restarts!
 
 ## Run 🚀
 Its only HTML, CSS you wont need much:
 
-```sh
+`
 $ git clone https://github.com/AndrasE/firsty
+`
+
+`
 $ cd PROJECTNAME
+`
+
+`
 $ open index.html
-```
+`
