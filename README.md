@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://andrase.github.io/dice/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/dice-readme-img.png?raw=true" width="85px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/e0ba0d38fc6f2bb201983bbc4986e59f1ae946f2/logo/dice-readme-img.png" width="85px">
   </a>
 <br/>
   A simple dicegame with JavaScript
