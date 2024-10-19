@@ -12,6 +12,10 @@ This project was part of my self-study on **[Udemy](https://www.udemy.com/course
 
 Creating two random numbers between 1-6 accordingly to the outcomes displaying images for user highlighting the winner. I also added some @medias for mobile and a second of suspense before announcing the winner. Button refreshes the page and game restarts!
 
+<div align="center">
+<img src="https://github.com/AndrasE/raw-readme/blob/9c4de24486543db9f7378b223611919b183e59a7/thumbs/dice.png" width="420">
+</div>
+
 ## Run 🚀
 Its only HTML, CSS you wont need much:
 
